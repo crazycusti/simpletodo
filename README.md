@@ -10,5 +10,4 @@ cargo run
 
 Open http://localhost:5876 to use the app.
 
-The database is stored in `todo.db` by default. Each todo can include a description,
-optional deadline, and subtask checklist with a progress bar.
+The database is stored in `todo.db` by default.
